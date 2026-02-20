@@ -1,4 +1,4 @@
-🏗️ Civil Engineering Insight Studio 🚧
+🚧 Civil Engineering Insight Studio 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ Civil-Engineering-Insight-Studio/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Vineela-16/Civil-Engineering-Insight-Studio.git
+git clone https://github.com/nandhu-2514/Civil-Engineering-Insights-Studio
 
 cd Civil-Engineering-Insight-Studio
 
@@ -124,7 +124,7 @@ GEMINI_MODEL=gemini-2.5-flash
 
 ▶️ Running the Application
 
-streamlit run app.py
+python -m streamlit run app.py
 
 
 The application will open in your browser at:
@@ -175,7 +175,7 @@ Project Name: Civil Engineering Insight Studio
 
 Version: 1.0
 
-Developed By: Vineela
+Developed By: Nandini
 
 Submission Type: Academic / SmartBridge Assignment
 
